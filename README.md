@@ -33,10 +33,3 @@ Il s'agit d'un système simple de gestion des étudiants qui vous permet de gér
   - Utilise une `ArrayList` pour stocker les objets `Étudiant`.
   - Chaque étudiant a une liste de matières avec des notes associées.
 
-## Comment Utiliser
-
-1. **Compiler :**
-   - Compilez les fichiers Java à l'aide d'un compilateur Java.
-
-   ```bash
-   javac *.java
